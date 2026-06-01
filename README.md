@@ -37,6 +37,8 @@ A partir das análises estatísticas e das plotagens visuais desenvolvidas no c�
 * **Jupyter Notebook / Google Colab** (Ambiente de desenvolvimento)
 
 ## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+O projeto pode ser visualizado e executado diretamente pelo navegador através do Google Colab, sem a necessidade de instalar nada no seu computador.
+
+Clique no botão abaixo para abrir o notebook interativo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dERvLmYNbgRBdzm8cMbYwlwqdMOqlbOR?usp=sharing)
